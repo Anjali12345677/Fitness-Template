@@ -5,11 +5,18 @@ This is an interactive fitness template that I created using HTML, CSS, and Boot
 Features
 
 Fully responsive design that works on any device
+
 Interactive table tag that allows you to display your fitness programs and pricing plans
+
 Bootstrap grid system that helps you to create a beautiful layout for your content
+
 Social links that allow your visitors to connect with you on social media
+
 Customizable colors and fonts that can be changed to match your brand's style
+
+
 Getting Started
+
 To get started, simply clone or download the repository to your local machine. You can then customize the template by adding your own content, images, and colors.
 
 Usage
